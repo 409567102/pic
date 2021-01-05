@@ -3,4 +3,5 @@
   "noteSync.pullStatusMessage": "Note pulling",
   "noteSync.runningStatusMessage": "Notes uploading",
   "noteSync.finishStatusMessage": "Note upload complete",
+  "git.postCommitCommand": "push",
 }
